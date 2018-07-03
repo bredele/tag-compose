@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/bredele/tag-compose/issues"
   },
-  "homepage": "https://github.com/bredele/tag-compose#readme"
+  "homepage": "https://github.com/bredele/tag-compose#readme",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
 }
