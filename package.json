@@ -1,0 +1,28 @@
+{
+  "name": "tag-compose",
+  "version": "1.0.0",
+  "description": "Compose tagged templates together",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/tag-compose.git"
+  },
+  "keywords": [
+    "tagged",
+    "templates",
+    "compose",
+    "join"
+  ],
+  "author": "Olivier Wietrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/tag-compose/issues"
+  },
+  "homepage": "https://github.com/bredele/tag-compose#readme"
+}
