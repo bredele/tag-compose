@@ -52,3 +52,11 @@ test('compose tagged templates at given index where both finish with string', as
     ['hello', 'everybody in the world', 'and the universe!']
   )
 })
+
+// test('compose append tagged templates', assert => {
+//   assert.plan(1)
+//   assert.deepEqual(
+//     compose(['hello', 'everybody in the '], ['world', '!'], 2),
+//     ['hello', 'everybody in the ', 'world', '!']
+//   )
+// })
