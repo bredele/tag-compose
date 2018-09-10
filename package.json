@@ -1,6 +1,6 @@
 {
   "name": "tag-compose",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compose tagged templates together. Useful to create your own templat engine on top of template literals.",
   "main": "index.js",
   "directories": {
